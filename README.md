@@ -8,7 +8,7 @@ servo pin is assigned to D9, you can however change it to any you'd like.
 potentiometer is connected to A0, but you can also change it!
 any variable names can be changed and you can use this code for other projects such as:
 
-gate systems for display models (such as smart house models)
+gate systems for display models (such as smart house models) <br/>
 using this as a <i> basis <i/> for other potentiometer usage, such as adjusting LED brightness, however it isn't exact to how that code is written.
 
 go crazy :P
